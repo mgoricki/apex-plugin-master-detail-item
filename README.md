@@ -54,6 +54,7 @@ With this plugin you can easily create master-detail reports:
 
 ![Master Region](https://github.com/mgoricki/apex-plugin-master-detail-item/blob/master/images/rgnmaster.png "Master Region")
 
+
 ![Detail Region](https://github.com/mgoricki/apex-plugin-master-detail-item/blob/master/images/rgndetail.png "Detail Region")
 
 2) Create column with alias MASTER_ID in master report.
