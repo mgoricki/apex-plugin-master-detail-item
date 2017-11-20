@@ -1,0 +1,37 @@
+{
+  "name" : "Master Detail Item",
+  "version" : "2.0.1",
+  "description" : "Oracle APEX Plugin for declarative master-detail regions",
+  "keywords" : ["master-detail", "interactive report", "classic report"],
+  "homepage" : "https://github.com/mgoricki/apex-plugin-master-detail-item",
+  "bugs" : {
+    "url" : "https://github.com/mgoricki/apex-plugin-master-detail-item/issues",
+    "email" : "mgoricki8@gmail.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Marko Goricki",
+    "email" : "mgoricki8@gmail.com",
+    "url" : "http://apexbyg.blogspot.com",
+    "twitter" : "mgoricki",
+    "donationUrl" : "https://www.paypal.me/mgoricki"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/mgoricki/apex-plugin-master-detail-item"
+  },
+  "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["5.1.3.00.05"],
+      "plugin" : {
+        "internalName" : "HR.BILOG.MGORICKI.MASTERDETAIL",
+        "type" : "item",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=masterdetailitem",
+        "previewImage" : "https://raw.githubusercontent.com/mgoricki/apex-plugin-master-detail-item/master/preview01.gif"
+
+
+      }
+    }
+  }
+}
